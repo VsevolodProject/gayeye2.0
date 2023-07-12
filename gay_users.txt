@@ -78,4 +78,3 @@ Genshin_impact_ru_off
 @Genshinimpact_id_off
 kompotik_chat
 a4feedback_bot
-santehnickpub
