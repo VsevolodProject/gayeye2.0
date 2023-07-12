@@ -81,3 +81,4 @@ santehnikpub
 Genshinimpact_id_off
 wb_women
 wildberriesru_official
+wb_man
