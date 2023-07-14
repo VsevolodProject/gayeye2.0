@@ -1,2 +1,1 @@
-@telegram
-@grouphelp
+@telegram и @grouphelp
